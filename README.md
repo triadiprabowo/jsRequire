@@ -17,6 +17,8 @@ How To Use
 
 Implementation
 ==============
+````````
 <script>
 	$.jsRequire('your_file_url');
 </script>
+````````
