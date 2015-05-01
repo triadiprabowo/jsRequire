@@ -13,3 +13,10 @@ How To Use
 1. Include jQuery library in head tag
 2. Include jsRequire as plugin lib
 3. Then include jsPackages which you had been import all javascript for your project
+4. Edit jsPackages.js to put your external scripts file
+
+Implementation
+==============
+<script>
+	$.jsRequire('your_file_url');
+</script>
